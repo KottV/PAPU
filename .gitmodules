@@ -1,13 +1,10 @@
 [submodule "modules/drowaudio"]
 	path = modules/dRowAudio
-	url = git@github.com:FigBug/drowaudio.git
+	url = https://github.com/FigBug/drowaudio
 [submodule "modules/gin"]
 	path = modules/gin
-	url = git@github.com:FigBug/Gin.git
+	url = https://github.com/FigBug/Gin
 [submodule "modules/juce"]
 	path = modules/juce
 	url = https://github.com/lv2-porting-project/JUCE
 	branch = lv2
-[submodule "modules/plugin_sdk"]
-	path = modules/plugin_sdk
-	url = https://github.com/TurnipHat/plugin_sdk.git
